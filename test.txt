@@ -1,5 +1,9 @@
 Hello Phong
 Hello phong hãy test_conflict
 Hay đăng nhập vào tài của bạn
+<<<<<<< HEAD
 fixed
 flex idor Conflict
+=======
+fixed TK 2
+>>>>>>> ca18226... TK 2
